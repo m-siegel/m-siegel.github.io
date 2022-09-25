@@ -1,0 +1,19 @@
+@import "main.css";
+
+#nav-professional-tab {
+  color: var(--imas-blue);
+}
+
+.active#nav-professional-tab {
+  background-color: var(--imas-blue-med);
+  color: #FFF;
+}
+
+.active#nav-interests-tab {
+  background-color: var(--imas-orange-med);
+  color: #FFF;
+}
+
+#nav-interests-tab {
+  color: var(--imas-orange);
+}

@@ -1,0 +1,82 @@
+:root {
+  --imas-dark: #222;
+  --imas-yellow: #FFE600;
+  --imas-orange: #FF7A00;
+  --imas-pink: #FB2BFF;
+  --imas-blue: #07A6FF;
+  --imas-yellow-med: #a69601;
+  --imas-orange-med: #a75100;
+  --imas-pink-med: #a01ca2;
+  --imas-blue-med: #05639a;
+}
+
+body {
+  background-color: var(--imas-dark);
+  color: #FFF;
+}
+
+.bi-linkedin,
+.imas-linkedin,
+.imas-about-me {
+  color: var(--imas-yellow)
+}
+
+.bi-github,
+.imas-github,
+.imas-projects {
+  color: var(--imas-orange);
+}
+
+.bi-envelope,
+.imas-email,
+.imas-resume {
+  color: var(--imas-pink);
+}
+
+.bi-twitter,
+.imas-twitter,
+.imas-contact {
+  color: var(--imas-blue);
+}
+
+.imas-active-link {
+  /* font-weight: bold; */
+  /* font-style: italic; */
+  text-decoration: underline /* overline */;
+}
+
+.navbar-brand {
+  width: 2.5em;
+}
+
+.navbar-brand:hover {
+  border: .05em solid #FFF;
+}
+
+.imas-about-me:hover,
+.imas-projects:hover,
+.imas-resume:hover,
+.imas-contact:hover,
+.bi-linkedin:hover,
+.imas-linkedin:hover,
+.bi-github:hover,
+.imas-github:hover,
+.bi-envelope:hover,
+.imas-email:hover,
+.bi-twitter:hover,
+.imas-twitter:hover {
+  color: #FFF;
+}
+
+footer,
+header {
+  background-color: var(--imas-dark);
+}
+
+.imas-contact-side-nav {
+  position: fixed;
+}
+
+.copyright {
+  color: #808080;
+}
