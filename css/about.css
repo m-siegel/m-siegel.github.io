@@ -9,11 +9,21 @@
   color: #FFF;
 }
 
-.active#nav-interests-tab {
-  background-color: var(--imas-orange-med);
+#nav-skills-tab {
+  color: var(--imas-pink);
+}
+
+.active#nav-skills-tab {
+  background-color: var(--imas-pink-med);
   color: #FFF;
 }
 
 #nav-interests-tab {
   color: var(--imas-orange);
 }
+
+.active#nav-interests-tab {
+  background-color: var(--imas-orange-med);
+  color: #FFF;
+}
+

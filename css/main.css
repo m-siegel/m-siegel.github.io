@@ -32,6 +32,22 @@ body {
   color: var(--imas-blue)
 }
 
+.imas-bd-pink {
+  border: .2em solid var(--imas-pink);
+}
+
+.imas-bd-orange {
+  border: .2em solid var(--imas-orange);
+}
+
+.imas-bd-yellow {
+  border: .2em solid var(--imas-yellow);
+}
+
+.imas-bd-blue {
+  border: .2em solid var(--imas-blue);
+}
+
 /* Other class rules */
 
 .bi-linkedin,
