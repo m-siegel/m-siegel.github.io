@@ -15,6 +15,22 @@ body {
   color: #FFF;
 }
 
+.imas-pink {
+  color: var(--imas-pink)
+}
+
+.imas-orange {
+  color: var(--imas-orange)
+}
+
+.imas-yellow {
+  color: var(--imas-yellow)
+}
+
+.imas-blue {
+  color: var(--imas-blue)
+}
+
 .bi-linkedin,
 .imas-linkedin,
 .imas-about-me {

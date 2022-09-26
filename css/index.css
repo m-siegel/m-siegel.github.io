@@ -1,0 +1,22 @@
+@import "main.css";
+
+h1 {
+  color: var(--imas-yellow);
+}
+
+span {
+  color: var(--imas-pink);
+}
+
+h2 {
+  color: var(--imas-orange);
+}
+
+#enter {
+  color: #FFF;
+  background-color: var(--imas-blue);
+}
+
+#enter:hover {
+  background-color: var(--imas-blue-med);
+}
