@@ -12,11 +12,17 @@ h2 {
   color: var(--imas-orange);
 }
 
-#enter {
+#enterText {
   color: #FFF;
+  /* background-color: var(--imas-blue-med); */
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+#enterButton {
   background-color: var(--imas-blue-med);
 }
 
-#enter:hover {
+#enterButton:hover {
   background-color: var(--imas-blue);
 }
