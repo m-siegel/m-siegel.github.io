@@ -1,0 +1,41 @@
+@import "main.css";
+
+.card {
+  color: #000;
+}
+
+.imas-pink {
+  color: var(--imas-pink)
+}
+
+.imas-orange {
+  color: var(--imas-orange)
+}
+
+.imas-yellow {
+  color: var(--imas-yellow)
+}
+
+.imas-blue {
+  color: var(--imas-blue)
+}
+
+.imas-bd-pink {
+  border: .2em solid var(--imas-pink);
+}
+
+.imas-bd-orange {
+  border: .2em solid var(--imas-orange);
+}
+
+.imas-bd-yellow {
+  border: .2em solid var(--imas-yellow);
+}
+
+.imas-bd-blue {
+  border: .2em solid var(--imas-blue);
+}
+
+.imas-underline {
+  text-decoration: underline;
+}
