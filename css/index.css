@@ -14,9 +14,9 @@ h2 {
 
 #enter {
   color: #FFF;
-  background-color: var(--imas-blue);
+  background-color: var(--imas-blue-med);
 }
 
 #enter:hover {
-  background-color: var(--imas-blue-med);
+  background-color: var(--imas-blue);
 }

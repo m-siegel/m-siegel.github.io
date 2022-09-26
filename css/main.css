@@ -86,7 +86,7 @@ body {
 
 footer,
 header {
-  background-color: var(--imas-dark);
+  background-color: #111;
 }
 
 .imas-contact-side-nav {
