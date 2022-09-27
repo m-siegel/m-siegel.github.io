@@ -12,8 +12,9 @@ My **objectives** were
 
 - To become familiar with HTML, CSS, Bootstrap and JavaScript through hands-on practice and experimentation, and
 - To create a personal website that I can link to for both personal and professional use.
+  <!-- Great concise decription for each technologies used -->
 
-I used the following **technologies**:
+  I used the following **technologies**:
 
 - _Figma_ – for planning and page mock-ups.
 - _HTML_ – for site and page structure.
